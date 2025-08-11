@@ -1,7 +1,7 @@
 @import 'tailwindcss/preflight';
 @tailwind utilities;
 
-/* Your custom global styles here */
+/* Your custom global styles */
 
 body {
   font-family: 'Poppins', sans-serif;
@@ -9,7 +9,6 @@ body {
   color: #2c3e50; /* Sophisticated Blue */
 }
 
-/* Example: add smooth transition for color changes */
 * {
   transition: color 0.3s ease, background-color 0.3s ease;
 }
